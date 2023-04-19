@@ -1,0 +1,19 @@
+# String variabele
+name = "John Doe"
+print(name)
+
+# Integer variabele
+age = 25
+print(age)
+
+# Float variabele
+height = 1.75
+print(height)
+
+# List variabele
+numbers = [1, 2, 3, 4, 5]
+print(numbers)
+
+# Dictionary variabele
+person = {"name": "Jane Smith", "age": 30, "height": 1.60}
+print(person)
